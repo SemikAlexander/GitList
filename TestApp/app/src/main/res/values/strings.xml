@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="no_email">no email</string>
+    <string name="no_blog">no blog</string>
+
+    <string name="user_info">User Information</string>
+
+    <string name="location">Location: %1$s</string>
+    <string name="no_location">no location</string>
+
+    <string name="organization">Organizations: %1$s</string>
+    <string name="no_organization">no organizations</string>
+
+    <string name="no_followers">no followers</string>
+    <string name="no_following">no following</string>
+
+    <string name="setting">Settings</string>
+    <string name="language">Language</string>
+    <string name="temperature">Temperature unit</string>
+    <string name="info_about">About</string>
+    <string name="git_hub_api">API docs</string>
+    <string name="source_code">Source code app</string>
+
+    <string name="email_error">Невозможно открыть почту!</string>
+    <string name="web_error">Невозможно открыть ссылку!</string>
+</resources>
